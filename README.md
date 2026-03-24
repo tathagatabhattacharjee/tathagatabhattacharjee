@@ -2,7 +2,7 @@
 ## Hi there 👋 I am a Data Scientist working in the field of Population Research 
 <hr>
 My expertise is in Machine Learning (ML) for Record Linkage using Python | Synthetic data generation | HDSS/longitudinal studies | ETL (Pentaho) | Data Standardization & Integration | OMOP CDM/OHDSI | Data Architecture for Epidemiological Research
-
+<br><br>
 🔭 I’m currently working on: <br><li> Record Linkage using Machine Learning Techniques <li>Data Standardization using OMOP CDM standards</li>
 <BR><BR>
 <b>About Me</b> <BR>
