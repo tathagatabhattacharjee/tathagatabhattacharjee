@@ -2,7 +2,7 @@
 ## 👋 Data Scientist | Population Health Research | Record Linkage | OMOP CDM
 <hr>
 I’m a <B>Data Scientist working at the intersection of machine learning, data standardisation, population research, and health data engineering</B>.
-<BR>
+<BR><BR>
 My work focuses on transforming complex, heterogeneous population and clinical data into <B>standardised, interoperable, and research-ready datasets</B>, with a particular interest in <B>record linkage, synthetic data generation, longitudinal studies, and OMOP CDM/OHDSI</B>.
 <BR><BR>
 
@@ -17,3 +17,11 @@ My work focuses on transforming complex, heterogeneous population and clinical d
 <li>🏗️ Data Architecture — designing infrastructure for epidemiological and population health research</li><BR>
 <li>🌍 FAIR & Reproducible Research — enabling data harmonization and cross-site research</li><BR>
 </UL>
+<BR><BR>
+🔭 <B>Currently Working On</B><BR>
+<OL>
+<li>Machine Learning–based Record Linkage for population and health datasets</li><BR>
+<li>OMOP CDM-based Data Standardization and integration</li><BR>
+<li>Synthetic Data Generation for privacy-preserving research</li><BR>
+<li>Scalable ETL pipelines for longitudinal and epidemiological data</li><BR>
+</OL>
