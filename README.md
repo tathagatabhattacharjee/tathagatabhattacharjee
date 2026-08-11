@@ -7,12 +7,12 @@ My work focuses on transforming complex, heterogeneous population and clinical d
 <BR><BR>
 <LI>
 🔬 <B>Research & Technical Interests</B><BR>
-🤖 Machine Learning for Record Linkage — probabilistic, deterministic, and ML-based approaches
-🧬 Synthetic Data Generation — privacy-preserving population and clinical datasets
-👥 HDSS & Longitudinal Studies — population-based health and demographic surveillance
-🏥 OMOP Common Data Model (CDM) — data standardization and interoperability
-🔄 ETL & Data Integration — scalable pipelines using Python, Pentaho Data Integration, and PostgreSQL
-🧹 Data Standardization & Quality — transforming heterogeneous source data into analysis-ready datasets
-🏗️ Data Architecture — designing infrastructure for epidemiological and population health research
-🌍 FAIR & Reproducible Research — enabling data harmonization and cross-site research
+🤖 Machine Learning for Record Linkage — probabilistic, deterministic, and ML-based approaches<BR>
+🧬 Synthetic Data Generation — privacy-preserving population and clinical datasets<BR>
+👥 HDSS & Longitudinal Studies — population-based health and demographic surveillance<BR>
+🏥 OMOP Common Data Model (CDM) — data standardization and interoperability<BR>
+🔄 ETL & Data Integration — scalable pipelines using Python, Pentaho Data Integration, and PostgreSQL<BR>
+🧹 Data Standardization & Quality — transforming heterogeneous source data into analysis-ready datasets<BR>
+🏗️ Data Architecture — designing infrastructure for epidemiological and population health research<BR>
+🌍 FAIR & Reproducible Research — enabling data harmonization and cross-site research<BR>
 </LI>
